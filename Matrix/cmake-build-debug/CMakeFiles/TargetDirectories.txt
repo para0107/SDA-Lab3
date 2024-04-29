@@ -1,0 +1,3 @@
+C:/Facultate/SEM 2/Structuri de date/Laburi/Lab3/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir
+C:/Facultate/SEM 2/Structuri de date/Laburi/Lab3/Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/SEM 2/Structuri de date/Laburi/Lab3/Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
